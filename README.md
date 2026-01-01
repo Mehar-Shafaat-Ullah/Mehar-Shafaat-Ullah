@@ -1,2 +1,4 @@
-## Hello World
-I build, break, and fix systems for fun.
+## Hello World 👀
+
+Learning how systems break,
+so I know how to make them stronger 💪
