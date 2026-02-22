@@ -1,4 +1,4 @@
 ## Hello World 🌍
 
-Learning how systems break,
+Learning how to break systemss,
 so I can know how to make them stronger 💪
